@@ -1,0 +1,14 @@
+{
+  "name": "calculaimc",
+  "version": "1.0.0",
+  "description": "Projeto de cálculo de IMC para P2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
